@@ -1,21 +1,21 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: James McElwee
+description: Systems Engineer
+site_title: 'James McElwee'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
-blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+github_username: j-mcelwee
+blog_url: https://j-mcelwee.github.io
+email: jamesemcelwee@outlook.com
+keybase_username: delete
+twitter_username: delete
+reddit_username: delete
 
 # absolute or relative
-profile_picture: assets/images/pp.jpg
+profile_picture: assets/images/Headshot.jpg
 
 # Google Analytics ID
 google_analytics: 
